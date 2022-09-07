@@ -8,7 +8,7 @@ Web application for renting equipment for occasional parties.
 * [Technologies](#Technologies)
 * [Setup](#Setup)
 * [Features](#Features)
-* [Important info](#Important info)
+* [Important info](#Important_info)
 
 ## Introduction
 
