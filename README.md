@@ -8,6 +8,7 @@ Web application for renting equipment for occasional parties.
 * [Technologies](#Technologies)
 * [Setup](#Setup)
 * [Features](#Features)
+* [Important info](#Important info)
 
 ## Introduction
 
@@ -46,6 +47,28 @@ go to the link leading to the expensive
 repository and read the readme file to
 run this part of the application
 - link to front repository https://github.com/Arutorek/R.A.M-front
+
+## Important info
+
+### Logining to application
+User registration is not possible because the accounts are to be created by the owner of the application and the user gets login and password after signing the contract with the owner.
+For the purposes of the presentation, four accounts with different permissions have been prepared.
+the password for each account is 123
+logins: admin, user, guest, hirek
+
+### Other info
+
+We were unable to finish the application from the frontend side, so not all functionalities are currently working.
+The functions that should work at the moment are:
+- Login
+- Dashboard tab
+- Equipment tab
+- User roles tab
+- Application user tab
+- Equipment categories tab
+- Equipment statuses tab
+- Equipment ownership types tab
+- Equipment booking statuses tab
 
 ## Features
 
