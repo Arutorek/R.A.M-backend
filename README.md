@@ -8,7 +8,7 @@ Web application for renting equipment for occasional parties.
 * [Technologies](#Technologies)
 * [Setup](#Setup)
 * [Features](#Features)
-* [Important info](#Important_info)
+* [Info](#Info)
 
 ## Introduction
 
@@ -48,7 +48,7 @@ repository and read the readme file to
 run this part of the application
 - link to front repository https://github.com/Arutorek/R.A.M-front
 
-## Important info
+## Info
 
 ### Logining to application
 User registration is not possible because the accounts are to be created by the owner of the application and the user gets login and password after signing the contract with the owner.
